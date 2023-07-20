@@ -53,7 +53,9 @@ end```
 ```lua
 --replace the "id here" part with pastebin link (raw link, and with id's that you want to whitelist) in the pastebin it should look like (replace the part where it says id with the acctuall it, you can have more (unlimited) id's)
 return {
-"4786589572"
+"4786589572",
+"id2"
+"id3"
 }
 
 --use
